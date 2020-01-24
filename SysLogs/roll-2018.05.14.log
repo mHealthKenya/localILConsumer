@@ -1,0 +1,84 @@
+09:23:55.904 INFO  T4A HL7 Consumer Server started on port 1440 
+09:26:06.792 INFO   No Internet Connection  , opt for SMS Option  
+09:26:06.813 INFO  IL_ADT*MTMxMjItNzY0MzQqRGluZGkqSGFycmlzKlNhbXVlbCoxOTYyLTA2LTE1KjEqMSpObyBDb25kaXRpb24qMjAxNy0xMS0xMCowKjA3MTQzMzk1MjEqNSoyKjIqMTAqQWN0aXZlKjEqQURUKg== 
+09:26:06.815 INFO  Error , message is not a JSON ObjectError: File `C:\T4A HL7 Toolkit\T4A-HL7-Toolkit\server\boot\T4A HL7 ToolkitT4A-HL7-Toolkitsms_gatewaysms_gateway.php` not found. 
+09:27:58.709 INFO  T4A HL7 Consumer Server started on port 1440 
+09:28:00.413 INFO   No Internet Connection  , opt for SMS Option  
+09:28:00.423 INFO  IL_ADT*MTMxMjItNzY0MzQqRGluZGkqSGFycmlzKlNhbXVlbCoxOTYyLTA2LTE1KjEqMSpObyBDb25kaXRpb24qMjAxNy0xMS0xMCowKjA3MTQzMzk1MjEqNSoyKjIqMTAqQWN0aXZlKjEqQURUKg== 
+09:28:00.435 INFO  Error , message is not a JSON ObjectError: File `C:\T4A HL7 Toolkit\T4A-HL7-Toolkit\server\boot\sms_gateway` not found. 
+09:28:18.852 INFO  T4A HL7 Consumer Server started on port 1440 
+09:28:21.392 INFO   No Internet Connection  , opt for SMS Option  
+09:28:21.425 INFO  IL_ADT*MTMxMjItNzY0MzQqRGluZGkqSGFycmlzKlNhbXVlbCoxOTYyLTA2LTE1KjEqMSpObyBDb25kaXRpb24qMjAxNy0xMS0xMCowKjA3MTQzMzk1MjEqNSoyKjIqMTAqQWN0aXZlKjEqQURUKg== 
+09:28:21.435 INFO  Error , message is not a JSON ObjectError: File `C:\T4A HL7 Toolkit\T4A-HL7-Toolkit\server\boot\sms_gateway` not found. 
+09:29:34.518 INFO  T4A HL7 Consumer Server started on port 1440 
+09:29:38.026 INFO   No Internet Connection  , opt for SMS Option  
+09:29:38.053 INFO  IL_ADT*MTMxMjItNzY0MzQqRGluZGkqSGFycmlzKlNhbXVlbCoxOTYyLTA2LTE1KjEqMSpObyBDb25kaXRpb24qMjAxNy0xMS0xMCowKjA3MTQzMzk1MjEqNSoyKjIqMTAqQWN0aXZlKjEqQURUKg== 
+09:30:32.344 INFO  T4A HL7 Consumer Server started on port 1440 
+09:30:35.506 INFO   No Internet Connection  , opt for SMS Option  
+09:30:35.526 INFO  IL_ADT*MTMxMjItNzY0MzQqRGluZGkqSGFycmlzKlNhbXVlbCoxOTYyLTA2LTE1KjEqMSpObyBDb25kaXRpb24qMjAxNy0xMS0xMCowKjA3MTQzMzk1MjEqNSoyKjIqMTAqQWN0aXZlKjEqQURUKg== 
+09:30:35.526 INFO  Error , message is not a JSON ObjectError: File `C:\T4A HL7 Toolkit\T4A-HL7-Toolkit\server\boot\sms_gatewaysms_gateway.php` not found. 
+09:30:52.252 INFO  T4A HL7 Consumer Server started on port 1440 
+09:30:55.590 INFO   No Internet Connection  , opt for SMS Option  
+09:30:55.603 INFO  IL_ADT*MTMxMjItNzY0MzQqRGluZGkqSGFycmlzKlNhbXVlbCoxOTYyLTA2LTE1KjEqMSpObyBDb25kaXRpb24qMjAxNy0xMS0xMCowKjA3MTQzMzk1MjEqNSoyKjIqMTAqQWN0aXZlKjEqQURUKg== 
+09:30:55.611 INFO  Error , message is not a JSON ObjectError: File `C:\T4A HL7 Toolkit\T4A-HL7-Toolkit\server\boot\sms_gatewaysms_gateway.php` not found. 
+09:31:31.208 INFO  T4A HL7 Consumer Server started on port 1440 
+09:31:37.721 INFO   No Internet Connection  , opt for SMS Option  
+09:31:37.744 INFO  IL_ADT*MTMxMjItNzY0MzQqRGluZGkqSGFycmlzKlNhbXVlbCoxOTYyLTA2LTE1KjEqMSpObyBDb25kaXRpb24qMjAxNy0xMS0xMCowKjA3MTQzMzk1MjEqNSoyKjIqMTAqQWN0aXZlKjEqQURUKg== 
+09:31:37.745 INFO  Error , message is not a JSON ObjectError: File `C:\T4A HL7 Toolkit\T4A-HL7-Toolkit\server\boot\sms_gatewaysms_gateway.php` not found. 
+09:32:16.770 INFO  T4A HL7 Consumer Server started on port 1440 
+09:32:19.848 INFO   No Internet Connection  , opt for SMS Option  
+09:32:19.866 INFO  IL_ADT*MTMxMjItNzY0MzQqRGluZGkqSGFycmlzKlNhbXVlbCoxOTYyLTA2LTE1KjEqMSpObyBDb25kaXRpb24qMjAxNy0xMS0xMCowKjA3MTQzMzk1MjEqNSoyKjIqMTAqQWN0aXZlKjEqQURUKg== 
+09:34:08.595 INFO  T4A HL7 Consumer Server started on port 1440 
+09:34:11.814 INFO   No Internet Connection  , opt for SMS Option  
+09:34:11.831 INFO  IL_ADT*MTMxMjItNzY0MzQqRGluZGkqSGFycmlzKlNhbXVlbCoxOTYyLTA2LTE1KjEqMSpObyBDb25kaXRpb24qMjAxNy0xMS0xMCowKjA3MTQzMzk1MjEqNSoyKjIqMTAqQWN0aXZlKjEqQURUKg== 
+09:34:45.565 INFO  T4A HL7 Consumer Server started on port 1440 
+09:34:49.637 INFO   No Internet Connection  , opt for SMS Option  
+09:34:49.659 INFO  IL_ADT*MTMxMjItNzY0MzQqRGluZGkqSGFycmlzKlNhbXVlbCoxOTYyLTA2LTE1KjEqMSpObyBDb25kaXRpb24qMjAxNy0xMS0xMCowKjA3MTQzMzk1MjEqNSoyKjIqMTAqQWN0aXZlKjEqQURUKg== 
+09:38:03.001 INFO  T4A HL7 Consumer Server started on port 1440 
+09:38:06.115 INFO   No Internet Connection  , opt for SMS Option  
+09:38:06.143 INFO  IL_ADT*MTMxMjItNzY0MzQqRGluZGkqSGFycmlzKlNhbXVlbCoxOTYyLTA2LTE1KjEqMSpObyBDb25kaXRpb24qMjAxNy0xMS0xMCowKjA3MTQzMzk1MjEqNSoyKjIqMTAqQWN0aXZlKjEqQURUKg== 
+09:38:31.787 INFO  T4A HL7 Consumer Server started on port 1440 
+09:38:37.075 INFO   No Internet Connection  , opt for SMS Option  
+09:38:37.092 INFO  IL_ADT*MTMxMjItNzY0MzQqRGluZGkqSGFycmlzKlNhbXVlbCoxOTYyLTA2LTE1KjEqMSpObyBDb25kaXRpb24qMjAxNy0xMS0xMCowKjA3MTQzMzk1MjEqNSoyKjIqMTAqQWN0aXZlKjEqQURUKg== 
+09:38:37.100 INFO  Error , message is not a JSON ObjectError: File `C:\T4A HL7 Toolkit\T4A-HL7-Toolkit\server\boot\sms_gatewaysms_gateway.php` not found. 
+09:39:17.245 INFO  T4A HL7 Consumer Server started on port 1440 
+09:39:20.336 INFO   No Internet Connection  , opt for SMS Option  
+09:39:20.363 INFO  IL_ADT*MTMxMjItNzY0MzQqRGluZGkqSGFycmlzKlNhbXVlbCoxOTYyLTA2LTE1KjEqMSpObyBDb25kaXRpb24qMjAxNy0xMS0xMCowKjA3MTQzMzk1MjEqNSoyKjIqMTAqQWN0aXZlKjEqQURUKg== 
+09:39:20.371 INFO  Error , message is not a JSON ObjectError: File `C:\T4A HL7 Toolkit\T4A-HL7-Toolkit\server\boot\sms_gatewaysms_gateway.php` not found. 
+09:39:36.433 INFO  T4A HL7 Consumer Server started on port 1440 
+09:39:38.701 INFO   No Internet Connection  , opt for SMS Option  
+09:39:38.727 INFO  IL_ADT*MTMxMjItNzY0MzQqRGluZGkqSGFycmlzKlNhbXVlbCoxOTYyLTA2LTE1KjEqMSpObyBDb25kaXRpb24qMjAxNy0xMS0xMCowKjA3MTQzMzk1MjEqNSoyKjIqMTAqQWN0aXZlKjEqQURUKg== 
+09:43:24.946 INFO  T4A HL7 Consumer Server started on port 1440 
+09:43:27.006 INFO   No Internet Connection  , opt for SMS Option  
+09:43:27.029 INFO  IL_ADT*MTMxMjItNzY0MzQqRGluZGkqSGFycmlzKlNhbXVlbCoxOTYyLTA2LTE1KjEqMSpObyBDb25kaXRpb24qMjAxNy0xMS0xMCowKjA3MTQzMzk1MjEqNSoyKjIqMTAqQWN0aXZlKjEqQURUKg== 
+10:00:42.816 INFO  T4A HL7 Consumer Server started on port 1440 
+10:00:55.041 INFO   Connected to the internet!  
+10:00:56.457 INFO   Success => Data saved succesfully!  
+10:01:12.393 INFO   No Internet Connection  , opt for SMS Option  
+10:01:12.413 INFO  IL_ADT*MTMxMjItNzY0MzQqRGluZGkqSGFycmlzKlNhbXVlbCoxOTYyLTA2LTE1KjEqMSpObyBDb25kaXRpb24qMjAxNy0xMS0xMCowKjA3MTQzMzk1MjEqNSoyKjIqMTAqQWN0aXZlKjEqQURUKg== 
+10:03:29.172 INFO  T4A HL7 Consumer Server started on port 1440 
+10:03:31.075 INFO   No Internet Connection  , opt for SMS Option  
+10:03:31.095 INFO  IL_ADT*MTMxMjItNzY0MzQqRGluZGkqSGFycmlzKlNhbXVlbCoxOTYyLTA2LTE1KjEqMSpObyBDb25kaXRpb24qMjAxNy0xMS0xMCowKjA3MTQzMzk1MjEqNSoyKjIqMTAqQWN0aXZlKjEqQURUKg== 
+10:04:24.782 INFO  T4A HL7 Consumer Server started on port 1440 
+10:04:27.554 INFO   No Internet Connection  , opt for SMS Option  
+10:04:27.568 INFO  IL_ADT*MTMxMjItNzY0MzQqRGluZGkqSGFycmlzKlNhbXVlbCoxOTYyLTA2LTE1KjEqMSpObyBDb25kaXRpb24qMjAxNy0xMS0xMCowKjA3MTQzMzk1MjEqNSoyKjIqMTAqQWN0aXZlKjEqQURUKg== 
+11:44:58.787 INFO  T4A HL7 Consumer Server started on port 1440 
+11:45:30.134 INFO  T4A HL7 Consumer Server started on port 1440 
+11:45:41.525 INFO   Connected to the internet!  
+11:45:41.662 INFO   Success => Data saved succesfully!  
+11:45:53.297 INFO   No Internet Connection  , opt for SMS Option  
+11:45:53.314 INFO  IL_ADT*MTMxMjItNzY0MzQqRGluZGkqSGFycmlzKlNhbXVlbCoxOTYyLTA2LTE1KjEqMSpObyBDb25kaXRpb24qMjAxNy0xMS0xMCowKjA3MTQzMzk1MjEqNSoyKjIqMTAqQWN0aXZlKjEqQURUKg== 
+11:45:54.324 INFO  Connection Error => Error: connect ECONNREFUSED 127.0.0.1:3307  
+11:46:30.896 INFO  T4A HL7 Consumer Server started on port 1440 
+11:46:36.523 INFO   No Internet Connection  , opt for SMS Option  
+11:46:36.533 INFO  IL_ADT*MTMxMjItNzY0MzQqRGluZGkqSGFycmlzKlNhbXVlbCoxOTYyLTA2LTE1KjEqMSpObyBDb25kaXRpb24qMjAxNy0xMS0xMCowKjA3MTQzMzk1MjEqNSoyKjIqMTAqQWN0aXZlKjEqQURUKg== 
+11:54:00.333 INFO  T4A HL7 Consumer Server started on port 1440 
+11:54:08.414 INFO   No Internet Connection  , opt for SMS Option  
+11:54:08.470 INFO  IL_ADT*MTMxMjItNzY0MzQqRGluZGkqSGFycmlzKlNhbXVlbCoxOTYyLTA2LTE1KjEqMSpObyBDb25kaXRpb24qMjAxNy0xMS0xMCowKjA3MTQzMzk1MjEqNSoyKjIqMTAqQWN0aXZlKjEqQURUKg== 
+11:54:08.471 INFO  Error , message is not a JSON ObjectError: File `C:\T4A HL7 Toolkit\T4A-HL7-Toolkit\server\boot\sms_gatewaysms_gateway.php` not found. 
+11:54:56.522 INFO  T4A HL7 Consumer Server started on port 1440 
+11:55:00.875 INFO   No Internet Connection  , opt for SMS Option  
+11:55:00.884 INFO  IL_ADT*MTMxMjItNzY0MzQqRGluZGkqSGFycmlzKlNhbXVlbCoxOTYyLTA2LTE1KjEqMSpObyBDb25kaXRpb24qMjAxNy0xMS0xMCowKjA3MTQzMzk1MjEqNSoyKjIqMTAqQWN0aXZlKjEqQURUKg== 
+11:57:01.752 INFO  T4A HL7 Consumer Server started on port 1440 
+11:57:21.804 INFO   No Internet Connection  , opt for SMS Option  
+11:57:21.810 INFO  IL_ADT*MTMxMjItNzY0MzQqRGluZGkqSGFycmlzKlNhbXVlbCoxOTYyLTA2LTE1KjEqMSpObyBDb25kaXRpb24qMjAxNy0xMS0xMCowKjA3MTQzMzk1MjEqNSoyKjIqMTAqQWN0aXZlKjEqQURUKg== 
