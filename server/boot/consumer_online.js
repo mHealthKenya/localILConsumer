@@ -47,6 +47,7 @@ var applctn = express();
 applctn.use(bodyParser.json());
 
 
+applctn.use(bodyParser.urlencoded({ extended: true }));
 
 module.exports = function (app) {
 
@@ -56,11 +57,10 @@ module.exports = function (app) {
 
 
 
-		var hl7_message = JSON.stringify(req.body);
+		var hl7_message = (req.body);
 
 
-
-		connectivity(function (online) {
+	connectivity(function (online) {
 
 			if (online) {
 
@@ -90,7 +90,7 @@ module.exports = function (app) {
 
 					},
 
-					body: JSON.parse(hl7_message),
+					body:hl7_message,
 
 					json: true,
 
@@ -104,7 +104,7 @@ module.exports = function (app) {
 
 
 
-					console.log(body);
+					console.log(response);
 
 				});
 
@@ -192,7 +192,7 @@ module.exports = function (app) {
 
 			},
 
-			body: { mfl_code: 13180 },
+			body: { mfl_code: 14080 },
 
 			json: true,
 
