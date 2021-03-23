@@ -1,5 +1,7 @@
 # localILConsumer
 
+Install git <br> </br>
+Install nodejs <br> </br>
 Clone the repository at "https://github.com/mHealthKenya/localILConsumer/new/master" into your desired location <br> </br>
 cd into the newly created "localILConsumer" folder <br> </br>
 Run "npm install" <br> </br>
