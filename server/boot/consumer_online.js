@@ -82,7 +82,7 @@ module.exports = function (app) {
 
 					method: "POST",
 
-					url: "http://il.mhealthkenya.co.ke/hl7_message",
+					url: "https://il.mhealthkenya.co.ke/hl7_message",
 
 					headers: {
 
